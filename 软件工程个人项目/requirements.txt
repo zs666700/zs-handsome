@@ -1,0 +1,9 @@
+# 代码质量静态分析工具（对应 Code Quality Analysis 要求）
+flake8>=6.0.0
+
+# 单元测试覆盖率统计工具
+coverage>=7.0.0
+
+# 性能分析可视化工具（对应 Studio Profiling Tools 要求）
+snakeviz>=2.2.0
+line-profiler>=4.0.0
